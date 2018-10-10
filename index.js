@@ -10,8 +10,8 @@ if (name === "Susan") {
 
 
 
-var name = "Susan"
-var height = 70
+var name = "Susan";
+var height = 70;
 
 
 
